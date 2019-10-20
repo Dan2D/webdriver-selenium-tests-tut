@@ -29,9 +29,10 @@ exports.config = {
         './tests/sample**',
         './tests/selectors**',
         './tests/basic**',
-        // './tests/plainIO**',
+        './tests/plainIO**',
         // './tests/forgottenPass**',
-        // './tests/submitFeedback**'
+        // './tests/submitFeedback**',
+        './tests/searchbar**'
         // 'path/to/excluded/files'
     ],
     //
